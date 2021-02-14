@@ -1,6 +1,7 @@
 {
   "resources": [
     {"id":{"name":"gate_pute_saint_valentin","path":"objects/gate_pute_saint_valentin/gate_pute_saint_valentin.yy",},"order":1,},
+    {"id":{"name":"jp_pute4","path":"objects/jp_pute4/jp_pute4.yy",},"order":3,},
     {"id":{"name":"gui","path":"objects/gui/gui.yy",},"order":2,},
     {"id":{"name":"jp_pute","path":"objects/jp_pute/jp_pute.yy",},"order":0,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
