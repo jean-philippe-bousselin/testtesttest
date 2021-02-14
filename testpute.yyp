@@ -1,5 +1,6 @@
 {
   "resources": [
+    {"id":{"name":"NIOUOBJECT","path":"objects/NIOUOBJECT/NIOUOBJECT.yy",},"order":4,},
     {"id":{"name":"gate_pute_saint_valentin","path":"objects/gate_pute_saint_valentin/gate_pute_saint_valentin.yy",},"order":1,},
     {"id":{"name":"jp_pute4","path":"objects/jp_pute4/jp_pute4.yy",},"order":3,},
     {"id":{"name":"gui","path":"objects/gui/gui.yy",},"order":2,},
