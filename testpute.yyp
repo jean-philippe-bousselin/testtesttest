@@ -1,5 +1,6 @@
 {
   "resources": [
+    {"id":{"name":"jp_pute","path":"objects/jp_pute/jp_pute.yy",},"order":0,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
   "Options": [
