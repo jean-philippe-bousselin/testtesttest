@@ -25,7 +25,7 @@
     "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "gate_pute",
+  "name": "gate_pute_saint_valentin",
   "tags": [],
   "resourceType": "GMObject",
 }
